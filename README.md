@@ -27,7 +27,7 @@
  
 - 🎓 I'm a Postgraduate CSE Student at IIT Jammu ! <br>
 
-- 💼 I'm currently working as Full Stack Developer at Saarthi.ai🤖 <br>
+- 💼 I'm currently working as Full Stack Developer at Saarthi.ai 🤖 <br>
  
 - 📊 ***Tech Enthusiast!*** <br>
  

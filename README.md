@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <br>
  <h3> ❤️ Visitors ❤️ </h3>
  
-<!--- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Sahillather002) --->
+<!--- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.sonambharti) --->
 ![Counter](https://count.getloli.com/get/@sonambharti?theme=rule65)
 
 <br>
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
  
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=F05032&labelColor=ffffff" alt="sahil lather" height="60" width="180" /></a>
+<a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sonam Bharti" height="60" width="180" /></a>
 </p>
 <br>
  
@@ -112,13 +112,13 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h2 align="left">Github's Stats ✨✨✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height=400 src="https://github-profile-trophy.vercel.app/?username=Sahillather002&theme=dracula&row=3&column=6" alt="sonambharti" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height=400 src="https://github-profile-trophy.vercel.app/?username=sonambharti&theme=dracula&row=3&column=6" alt="sonambharti" /></a> </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonambharti&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sonambharti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonambharti&show_icons=true&locale=en&theme=dracula" alt="sonambharti" /></p>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sahillather002&bg_color=000000&color=FF6666&line=FFEA80&point=ffffff&area=true&hide_border=true)  -->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sonambharti&bg_color=000000&color=FF6666&line=FFEA80&point=ffffff&area=true&hide_border=true)  -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonambharti&show_icons=true&theme=dracula" alt="sonambharti" /></p>
 <br>

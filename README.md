@@ -16,9 +16,10 @@
 
 
  <div> 
-- 👋 Hi, I’m @sonambharti <br>
  
-- 👀 I’m interested in ***Softeare Development, AI and Machine Learning*** <br>
+- 👋 Hi, I’m @sonambharti <br>
+
+- 👀 I’m interested in ***Softeare Development, Blockchain, AI and Machine Learning*** <br>
  
 - 🌱 I’m currently learning ***LLM and Generative AI*** <br>
  
@@ -26,9 +27,9 @@
  
 - 🎓 I'm a Postgraduate CSE Student at IIT Jammu ! <br>
 
-- 💼 I'm currently working as Full Stack Developer at Saarthi.ai 🤖 <br>
+- 💼 I'm currently working as Full Stack Developer at Saarthi.ai🤖 <br>
  
-- 📊 ***Machine Leaning & AI Enthusiast!*** <br>
+- 📊 ***Tech Enthusiast!*** <br>
  
 - 💪 I'm a ***hardworker***, ***fast learner***, and I always eager to learn more about technology especially in the world of computer science
 
@@ -53,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 <br>
  
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=F05032&labelColor=ffffff" alt="sahil lather" height="60" width="180" /></a>
 </p>
@@ -88,6 +89,7 @@ You can click the Preview link to take a look at your changes.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
+![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat&logo=blockchain&logoColor=764ABC&labelColor=ffffff)
 
  
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
@@ -101,7 +103,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height=200 src="https://skillicons.dev/icons?i=git,html,css,js,react,nodejs,docker,c,cpp,java,python,github,vscode,tensorflow,pytorch,kubernetes" />
+    <img height=200 src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mysql,mongodb,redis,git,postman,docker,aws,github,vscode,tensorflow,pytorch,kubernetes" />
   </a>
 </p>
 

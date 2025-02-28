@@ -1,8 +1,9 @@
 <div>
- 
-## <div align="center">
- ## <img hight="208" width="800" alt="GIF" align="center" src="https://github.com/sonambharti/portfolio/blob/main/img/Welcome_to_my_profile_1.gif">
-## </div>
+ <!--  
+ <div align="center">
+  <img hight="208" width="800" alt="GIF" align="center" src="https://github.com/sonambharti/portfolio/blob/main/img/Welcome_to_my_profile_1.gif">
+ </div>
+  --->
 <h1 align="center">Hi 👋, I'm Sonam Bharti <img align="right" src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px"> </h1>
 
 ## <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="80px">&nbsp; ***About me***  <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="80px">

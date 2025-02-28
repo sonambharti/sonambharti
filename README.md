@@ -19,7 +19,7 @@
  
 - 👋 Hi, I’m @sonambharti <br>
 
-- 👀 I’m interested in ***Softeare Development, Blockchain, AI and Machine Learning*** <br>
+- 👀 I’m interested in ***Software Development, Blockchain, AI and Machine Learning*** <br>
  
 - 🌱 I’m currently learning ***LLM and Generative AI*** <br>
  

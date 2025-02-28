@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sonam Bharti"/></a>
-<a className='link-a' href="mailto:sonam.iitjammu2023@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Sonam Bharti"/></a>
+<a href="mailto:s.bharti14021999@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Sonam Bharti"/></a>
 </p>
 <br>
  

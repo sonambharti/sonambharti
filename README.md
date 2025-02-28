@@ -25,6 +25,8 @@
 - 💞️ I’m looking to collaborate on ***Machine learning and Web projects*** <br>
  
 - 🎓 I'm a Postgraduate CSE Student at IIT Jammu ! <br>
+
+- 💼 I'm currently working as Full Stack Developer at Saarthi.ai 🤖 <br>
  
 - 📊 ***Machine Leaning & AI Enthusiast!*** <br>
  
@@ -139,7 +141,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
   
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to collaborate to explore more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to collaborate and explore more!</b> :)</em>
 <br>
 <br>
 <h2 align="center">💖 ~ 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🆁🅴🅰🅳🅸🅽🅶 ! 🅿🅻🅴🅰🆂🅴 🅲🅾🅼🅴 🅰🅶🅰🅸🅽 ~ 💖</h2>

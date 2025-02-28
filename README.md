@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
  
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sonam Bharti" height="60" width="180" /></a>
+<a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sonam Bharti"/></a>
 </p>
 <br>
  
@@ -146,7 +146,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to collaborate and explore more!</b> :)</em>
 <br>
 <br>
-<h2 align="center">💖 ~ 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🆁🅴🅰🅳🅸🅽🅶 ! 🅿🅻🅴🅰🆂🅴 🅲🅾🅼🅴 🅰🅶🅰🅸🅽 ~ 💖</h2>
+<h2 align="center">💖 ~ 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🆁🅴🅰🅳🅸🅽🅶 ! ~ 💖</h2>
 
 <!-- wave GIF start -->
 <div align="center">

@@ -10,7 +10,8 @@
  
  
  <div>
- <img align='right' width="400px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="coding"/>
+  <img align='right' width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1BLQvWyH1raq_oCGm0lG5u&ust=1741435870228000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDbgqf494sDFQAAAAAdAAAAABAE" alt="coding" />
+<!--  <img align='right' width="400px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="coding"/> -->
 </div>
 
 

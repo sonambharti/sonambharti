@@ -146,7 +146,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
   
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to collaborate <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50"> and explore more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to collaborate <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> and explore more!</b> :)</em>
 <br>
 <br>
 <h2 align="center">💖 ~ 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🆁🅴🅰🅳🅸🅽🅶 ! ~ 💖</h2>

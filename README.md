@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
  
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
- <a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Sonam Bharti" width="50"/></a>
+ <a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Sonam Bharti" width="70"/></a>
 <!-- <a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sonam Bharti"/></a> -->
  <!--  <a href="mailto:s.bharti14021999@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Sonam Bharti"/></a>  --->
 </p>
@@ -128,19 +128,18 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonambharti&theme=dracula")/>
  -->
 
-<!-- github readme activity graph start -->
-<div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=sonambharti&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
-</div>
-
-
-<!-- github readme activity graph end -->
-
 <!-- github trophy start -->
 <div align="center">
     <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=sonambharti&theme=dracula&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
 <!-- github trophy end -->
+
+
+<!-- github readme activity graph start -->
+<div align="center">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=sonambharti&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+</div>
+<!-- github readme activity graph end -->
 
 
 

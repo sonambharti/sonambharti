@@ -10,7 +10,7 @@
  
  
  <div>
-  <img align='right' width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1BLQvWyH1raq_oCGm0lG5u&ust=1741435870228000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDbgqf494sDFQAAAAAdAAAAABAE" alt="coding" />
+  <img align='right' width="400px" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzNDk5ODIsIm5iZiI6MTc0MTM0OTY4MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA3VDEyMTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzYjFiZTA3NWVmZGE4N2ExMjlmN2ZkNTk3OWFiYmI5NmZkOTg4NTU1OWQ5MWJiMGRjZGNkOTEyM2I2YjYwYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PnoE0YaCWMiQ8GClF1IiivajXnkWSnCe9KKicGhFpwA" alt="coding" />
 <!--  <img align='right' width="400px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="coding"/> -->
 </div>
 
@@ -57,7 +57,8 @@ You can click the Preview link to take a look at your changes.
  
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sonam Bharti"/></a>
+ <a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="_blank"><img align="center" src="<a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sonam Bharti"/></a>" alt="Sonam Bharti"/></a>
+<!-- <a href="https://www.linkedin.com/in/sonam-bharti-213127178/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sonam Bharti"/></a> -->
  <!--  <a href="mailto:s.bharti14021999@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Sonam Bharti"/></a>  --->
 </p>
 <br>
@@ -145,7 +146,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
   
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to collaborate and explore more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to collaborate <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100"> and explore more!</b> :)</em>
 <br>
 <br>
 <h2 align="center">💖 ~ 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🆁🅴🅰🅳🅸🅽🅶 ! ~ 💖</h2>

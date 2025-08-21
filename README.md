@@ -10,8 +10,8 @@
  
  
  <div>
-  <img align='right' width="400px" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzNDk5ODIsIm5iZiI6MTc0MTM0OTY4MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA3VDEyMTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzYjFiZTA3NWVmZGE4N2ExMjlmN2ZkNTk3OWFiYmI5NmZkOTg4NTU1OWQ5MWJiMGRjZGNkOTEyM2I2YjYwYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PnoE0YaCWMiQ8GClF1IiivajXnkWSnCe9KKicGhFpwA" alt="coding" />
-<!--  <img align='right' width="400px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="coding"/> -->
+<!--   <img align='right' width="400px" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzNDk5ODIsIm5iZiI6MTc0MTM0OTY4MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA3VDEyMTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzYjFiZTA3NWVmZGE4N2ExMjlmN2ZkNTk3OWFiYmI5NmZkOTg4NTU1OWQ5MWJiMGRjZGNkOTEyM2I2YjYwYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PnoE0YaCWMiQ8GClF1IiivajXnkWSnCe9KKicGhFpwA" alt="coding" /> -->
+ <img align='right' width="400px" src="https://github.com/sonambharti/sonambharti/blob/main/girl-code.jpg" alt="coding"/>
 </div>
 
 
@@ -66,30 +66,47 @@ You can click the Preview link to take a look at your changes.
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- 
-![C](https://img.shields.io/badge/-c-000000?style=flat&logo=c&logoColor=F05032&labelColor=ffffff)
-![Cpp](https://img.shields.io/badge/-C++-000000?style=flat&logo=cpp&logoColor=F05032&labelColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
-![Java14](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F05032&labelColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" hspace="15" /> </a>
+ <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"width="40" height="40" hspace="15"  hspace="15" /> </a> 
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="15" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" hspace="15" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" hspace="15" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" hspace="15" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="aws" width="40" height="40" hspace="15" /> </a>
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" hspace="15" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" hspace="15" /> </a>
+ <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" hspace="15" /> </a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="15" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" hspace="15" /> </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="15" /> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" hspace="15" /> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" hspace="15" /> </a>
+ <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" hspace="15" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" hspace="15" /> </a>
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" hspace="15" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" hspace="15" /> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" hspace="15" /> </a>
+ <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" hspace="15" /> </a>
+ <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" hspace="15" /> </a>
+ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" hspace="15" /> </a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" hspace="15" /> </a> 
+ <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" hspace="15" /> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" hspace="15" /> </a>
+</p>
+
+<br>
+<p align="left">
  
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=F05032&labelColor=ffffff)
-![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch&logoColor=F05032&labelColor=ffffff)
-![Scikitlearn](https://img.shields.io/badge/-Scikit_learn-000000?style=flat&logo=scikitlearn&logoColor=F05032&labelColor=ffffff)
-![MachineLearning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=machinelearning&logoColor=F05032&labelColor=ffffff)
-![OpenCv](https://img.shields.io/badge/-OpenCv-000000?style=flat&logo=opencv&logoColor=F05032&labelColor=ffffff)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=machinelearning&logoColor=F05032&labelColor=ffffff)
 
  
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat&logo=blockchain&logoColor=764ABC&labelColor=ffffff)
@@ -98,40 +115,52 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=F05032&labelColor=ffffff)
+![OpenAI](https://img.shields.io/badge/-Open-ai-000000?style=flat&logo=openai&logoColor=F05032&labelColor=ffffff)
+![LLM](https://img.shields.io/badge/-LLM-000000?style=flat&logo=llm&logoColor=F05032&labelColor=ffffff)
+![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat&logo=langchain&logoColor=F05032&labelColor=ffffff)
+
+![Weaviate](https://img.shields.io/badge/-weaviate-000000?style=flat&logo=weaviate&logoColor=F05032&labelColor=ffffff)
+![ChromaDB](https://img.shields.io/badge/-chromadb-000000?style=flat&logo=chromadb&logoColor=F05032&labelColor=ffffff)
+![Faiss](https://img.shields.io/badge/-faiss-000000?style=flat&logo=faiss&logoColor=F05032&labelColor=ffffff)
+
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
 ![Mac](https://img.shields.io/badge/-Mac-000000?style=flat&logo=mac&logoColor=ffffff&labelColor=0078D6)
-  
-</p>
 
+ 
+</p>
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img height=200 src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mysql,mongodb,redis,git,postman,docker,aws,github,vscode,tensorflow,pytorch,kubernetes" />
   </a>
 </p>
+-->
 
 
 <br>
 <br>
 <h2 align="left">Github's Stats ✨✨✨</h3>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonambharti&show_icons=true&locale=en&layout=compact" alt="sonambharti" /></p>
+<p align="center" >
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonambharti&" alt="sonambharti" />
+ <img src="https://github-readme-stats.vercel.app/api?username=sonambharti&show_icons=true&locale=en" alt="sonambharti" />
+</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonambharti" alt="sonambharti" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height=400 src="https://github-profile-trophy.vercel.app/?username=sonambharti&theme=dracula&row=3&column=6" alt="sonambharti" /></a> </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonambharti&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sonambharti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonambharti&show_icons=true&locale=en&theme=dracula" alt="sonambharti" /></p>
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sonambharti&bg_color=000000&color=FF6666&line=FFEA80&point=ffffff&area=true&hide_border=true)  -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonambharti&show_icons=true&theme=dracula" alt="sonambharti" /></p>
-<br>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonambharti&theme=dracula")/>
- -->
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonambharti&show_icons=true&locale=en&layout=compact" alt="sonambharti"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonambharti&show_icons=true&locale=en" alt="sonambharti" width="350"/> 
+</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonambharti" alt="sonambharti" /></a> </p>
+-->
 
 <!-- github trophy start -->
+<!--
 <div align="center">
     <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=sonambharti&theme=dracula&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
+-->
 <!-- github trophy end -->
 
 

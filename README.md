@@ -5,6 +5,9 @@
  </div>
   --->
 <h1 align="center">Hi 👋, I'm Sonam Bharti <img align="right" src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px"> </h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=550&lines=A+Full+Stack+Software+Developer;Building+Scalable+Systems;Turning+Designs+Into+Products;Optimizing+Performance+At+Scale;Lifelong+Learner+%26+Tech+Explorer" />
+</p>
 
 ## <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="80px">&nbsp; ***About me***  <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="80px">
  
@@ -115,7 +118,7 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=F05032&labelColor=ffffff)
-![OpenAI](https://img.shields.io/badge/-Open-ai-000000?style=flat&logo=openai&logoColor=F05032&labelColor=ffffff)
+![OpenAI](https://img.shields.io/badge/-Openai-000000?style=flat&logo=openai&logoColor=F05032&labelColor=ffffff)
 ![LLM](https://img.shields.io/badge/-LLM-000000?style=flat&logo=llm&logoColor=F05032&labelColor=ffffff)
 ![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat&logo=langchain&logoColor=F05032&labelColor=ffffff)
 
@@ -152,7 +155,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonambharti&show_icons=true&locale=en" alt="sonambharti" width="350"/> 
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonambharti" alt="sonambharti" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonambharti&column=9" alt="sonambharti" /></a> </p>
 -->
 
 <!-- github trophy start -->

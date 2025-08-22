@@ -108,11 +108,15 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <p align="left">
- 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=machinelearning&logoColor=F05032&labelColor=ffffff)
 
+ 
+![OpenAI](https://img.shields.io/badge/-Openai-000000?style=flat&logo=openai&logoColor=F05032&labelColor=ffffff)
+![LLM](https://img.shields.io/badge/-LLM-000000?style=flat&logo=llm&logoColor=F05032&labelColor=ffffff)
+![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat&logo=langchain&logoColor=F05032&labelColor=ffffff)
+![Weaviate](https://img.shields.io/badge/-weaviate-000000?style=flat&logo=weaviate&logoColor=F05032&labelColor=ffffff)
+![ChromaDB](https://img.shields.io/badge/-chromadb-000000?style=flat&logo=chromadb&logoColor=F05032&labelColor=ffffff)
+![Faiss](https://img.shields.io/badge/-faiss-000000?style=flat&logo=faiss&logoColor=F05032&labelColor=ffffff)
+ 
  
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
@@ -122,21 +126,13 @@ You can click the Preview link to take a look at your changes.
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat&logo=blockchain&logoColor=764ABC&labelColor=ffffff)
 
- 
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=F05032&labelColor=ffffff)
-![OpenAI](https://img.shields.io/badge/-Openai-000000?style=flat&logo=openai&logoColor=F05032&labelColor=ffffff)
-![LLM](https://img.shields.io/badge/-LLM-000000?style=flat&logo=llm&logoColor=F05032&labelColor=ffffff)
-![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat&logo=langchain&logoColor=F05032&labelColor=ffffff)
 
-![Weaviate](https://img.shields.io/badge/-weaviate-000000?style=flat&logo=weaviate&logoColor=F05032&labelColor=ffffff)
-![ChromaDB](https://img.shields.io/badge/-chromadb-000000?style=flat&logo=chromadb&logoColor=F05032&labelColor=ffffff)
-![Faiss](https://img.shields.io/badge/-faiss-000000?style=flat&logo=faiss&logoColor=F05032&labelColor=ffffff)
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=000000&labelColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
 ![Mac](https://img.shields.io/badge/-Mac-000000?style=flat&logo=mac&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=machinelearning&logoColor=F05032&labelColor=ffffff)
 
  
 </p>
@@ -157,7 +153,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonambharti&" alt="sonambharti" />
  <img src="https://github-readme-stats.vercel.app/api?username=sonambharti&show_icons=true&locale=en" alt="sonambharti" />
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonambharti" alt="sonambharti" /></a> </p>
+<p align="center"> <a href="https://github.com/sonambharti/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonambharti" alt="sonambharti" /></a> </p>
 
 
 <!-- github readme activity graph end -->

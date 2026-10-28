@@ -25,13 +25,13 @@
 
 - 👀 I’m interested in ***Software Development, Blockchain, AI and Machine Learning*** <br>
  
-- 🌱 I’m currently learning ***LLM and Generative AI*** <br>
+- 🌱 I’m currently exploring and building ***LLM and Generative AI*** applications<br>
  
 - 💞️ I’m looking to collaborate on ***Machine learning and Web projects*** <br>
  
 - 🎓 I'm a Postgraduate CSE Student at IIT Jammu ! <br>
 
-- 💼 I'm currently working as Full Stack Developer at Saarthi.ai 🤖 <br>
+- 💼 I'm currently looking for an opportunity to work 🤖 with <br>
  
 - 📊 ***Tech Enthusiast!*** <br>
  
